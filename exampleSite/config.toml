@@ -1,5 +1,5 @@
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
+baseurl = /helena.com/
+title = "Helena TEST"
 copyright = "&copy; 2017 Your Name"
 theme = "academic"
 enableEmoji = true
@@ -26,15 +26,15 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, or `coffee`.
-  color_theme = "default"
+  color_theme = `coffee`
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = `playfair`
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Helena Boix"
+  role = "Loca Lista"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -44,9 +44,9 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "test@example.org"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  office_hours = ""
+  phone = "620 09 27 75"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -54,7 +54,7 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = " 20-01-2006"
 
   # Show estimated reading time for posts?
   reading_time = true
